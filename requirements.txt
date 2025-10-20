@@ -1,0 +1,11 @@
+langchain
+openai
+faiss-cpu
+sentence-transformers
+torch
+torchvision
+transformers
+Pillow
+flask
+matplotlib
+numpy
