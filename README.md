@@ -12,3 +12,6 @@ Advanced GenAI project integrating:
    pip install -r requirements.txt
 3. Run notebooks or Flask app:
    python web_app/app.py
+   
+## Note
+this is an ongoing project exploring RAG (retrieval-augmented generation), multimodal AI (text + image), and generative models (GANs). It’s a work-in-progress as I learn and iteratively expand its capabilities. I’m still building features, adding evaluation, and improving deployment
